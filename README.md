@@ -1,5 +1,6 @@
 #Bikesharing
-[Bikesharing Storyboard](https://public.tableau.com/profile/stephen.mulhern#!/vizhome/BikeSharing_16038472800620/NYCCitiBikeAnalysis)
+[Bikesharing Dashboard](https://public.tableau.com/profile/stephen.mulhern#!/vizhome/BikeSharing_16038472800620/NYCCitiBikeAnalysis)
+
 ## Purpose
 Using Tableau and data from NYC CitiBike bike rental program, the following document will provide analysis regarding the efficacy of investing in a bike-sharing program in Des Moines, Iowa.
 
